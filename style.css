@@ -1,0 +1,37 @@
+*{
+
+    
+    font-family:Agency FB ;
+   
+text-align: center;
+background-image:url("background.jpg");
+
+font-size: 25px;}
+    .hearder{
+        width: auto;
+     
+        
+    }
+    .title{
+        font-family: algerian ;
+        color:black;
+        text-align: center;
+        font-weight: 300;
+        font:70px ;
+        
+        font-size: 40px;
+        }
+        .blockquote{
+
+            font-size:px; 
+            color: black ;
+background: local;
+        }
+        
+.biography{
+color:black;
+            font-size: 20px;
+            background: local;
+        }
+
+
